@@ -21,9 +21,14 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+### Name:LAVANYA M
+### Register Number:212222110021
 
-### Name:
-### Register Number:
+### Start Process
+![image](https://github.com/LavanyaMuraleedharan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120103862/f035333a-3b2d-4a98-b908-b3ff97e6ab57)
+### Stop Process
+![image](https://github.com/LavanyaMuraleedharan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120103862/f519ea20-99a5-4e2c-99e1-be1e85d529c6)
+
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
